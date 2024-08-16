@@ -17,6 +17,6 @@
   "dependencies": {
     "create-react-app": "^1.4.0",
     "preact-cli": "^1.4.1",
-    "yarn": "^1.0.2"
+    "yarn": "^1.22.13"
   }
 }
